@@ -1,6 +1,0 @@
-cl/profeperez/servicios/gestionstockservice/client/StockServiceClient.class
-cl/profeperez/servicios/gestionstockservice/client/LedgerServiceClient.class
-cl/profeperez/servicios/gestionstockservice/Application.class
-cl/profeperez/servicios/gestionstockservice/controller/IntegrationController.class
-cl/profeperez/servicios/gestionstockservice/service/IntegrationService.class
-cl/profeperez/servicios/gestionstockservice/client/SaleServiceClient.class
