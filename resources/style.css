@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background-color: #fff;
+}
+
+section.slide {
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  page-break-after: always;
+  background-size: cover;
+  background-position: center;
+}
+
+/* --- SLIDE 0: Portada --- */
+.slide.portada {
+  background-image: url("imgs/fondo-portada.png");
+  position: relative;
+}
+
+.portada h1 {
+  font-size: 5rem;
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
+.portada h2 {
+  font-size: 2rem;
+  font-weight: 400;
+  color: #666;
+  margin-bottom: 3rem;
+}
+
+.portada .decoracion {
+  position: absolute;
+  bottom: 2rem;
+  width: 40%;
+  max-width: 350px;
+}
+
+.portada .decoracion.left {
+  left: 2rem;
+  height: fit-content;
+}
+
+.portada .decoracion.right {
+  right: 2rem;
+}
+
+/* --- SLIDE DE PASOS --- */
+
+.slide h1 {
+  font-size: 2.2rem;
+  margin-bottom: 2rem;
+}
+
+.slide img.Step-img {
+  max-width: 80%;
+  max-height: 70vh;
+  border-radius: 1rem;
+  object-fit: contain;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.2);
+}
+
+.slide {
+  background-image: url("imgs/fondo-presentacion.png");
+}
+
+.step-1 h1 {
+  color: #e63946;
+}
+
+.step-2 h1 {
+  color: #f4a261;
+}
+
+.step-3 h1 {
+  color: #2a9d8f;
+}
+
+.step-4 h1 {
+  color: #264653;
+}
+
+.step-5 h1 {
+  color: #8e44ad;
+}
+
+.step-6 h1 {
+  color: #f77f00;
+}
+
+.img-container {
+  display: flex;
+  justify-content: center; /* Centra horizontalmente */
+  align-items: center; /* Centra verticalmente (si se aplica) */
+  gap: 2rem; /* Espacio entre imágenes */
+  flex-wrap: wrap; /* Permite pasar a 1 columna en pantallas pequeñas */
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.img-container img {
+  max-width: 40%;
+  max-height: 60vh;
+  object-fit: contain;
+  border-radius: 1rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* --- General responsive --- */
+@media (max-width: 768px) {
+  .portada h1 {
+    font-size: 2rem;
+  }
+
+  .portada h2 {
+    font-size: 1.2rem;
+  }
+}
