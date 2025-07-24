@@ -1,0 +1,6 @@
+cl/profeperez/entidades/clienteservice/model/Client.class
+cl/profeperez/entidades/clienteservice/service/ClientService.class
+cl/profeperez/entidades/clienteservice/Application.class
+cl/profeperez/entidades/clienteservice/repository/ClientRepository.class
+cl/profeperez/entidades/clienteservice/controller/ClientController.class
+cl/profeperez/entidades/clienteservice/config/DataLoader.class

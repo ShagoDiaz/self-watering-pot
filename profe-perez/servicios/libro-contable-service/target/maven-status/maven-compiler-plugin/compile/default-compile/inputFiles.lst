@@ -1,0 +1,5 @@
+/home/shagodiaz/workspace/profe-perez/servicios/libro-contable-service/src/main/java/cl/profeperez/servicios/librocontableservice/model/LedgerEntry.java
+/home/shagodiaz/workspace/profe-perez/servicios/libro-contable-service/src/main/java/cl/profeperez/servicios/librocontableservice/controller/LedgerEntryController.java
+/home/shagodiaz/workspace/profe-perez/servicios/libro-contable-service/src/main/java/cl/profeperez/servicios/librocontableservice/Application.java
+/home/shagodiaz/workspace/profe-perez/servicios/libro-contable-service/src/main/java/cl/profeperez/servicios/librocontableservice/repository/LedgerEntryRepository.java
+/home/shagodiaz/workspace/profe-perez/servicios/libro-contable-service/src/main/java/cl/profeperez/servicios/librocontableservice/service/LedgerEntryService.java

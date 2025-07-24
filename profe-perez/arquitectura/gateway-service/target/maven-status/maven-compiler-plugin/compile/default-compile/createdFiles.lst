@@ -1,0 +1,4 @@
+cl/profeperez/arquitectura/gatewayservice/Application.class
+cl/profeperez/arquitectura/gatewayservice/security/JwtAuthenticationFilter.class
+cl/profeperez/arquitectura/gatewayservice/security/SecurityConfig.class
+cl/profeperez/arquitectura/gatewayservice/security/JwtAuthenticationToken.class

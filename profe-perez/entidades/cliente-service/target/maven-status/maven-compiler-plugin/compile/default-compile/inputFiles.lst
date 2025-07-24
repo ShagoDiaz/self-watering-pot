@@ -1,0 +1,6 @@
+/home/shagodiaz/workspace/profe-perez/entidades/cliente-service/src/main/java/cl/profeperez/entidades/clienteservice/service/ClientService.java
+/home/shagodiaz/workspace/profe-perez/entidades/cliente-service/src/main/java/cl/profeperez/entidades/clienteservice/model/Client.java
+/home/shagodiaz/workspace/profe-perez/entidades/cliente-service/src/main/java/cl/profeperez/entidades/clienteservice/controller/ClientController.java
+/home/shagodiaz/workspace/profe-perez/entidades/cliente-service/src/main/java/cl/profeperez/entidades/clienteservice/repository/ClientRepository.java
+/home/shagodiaz/workspace/profe-perez/entidades/cliente-service/src/main/java/cl/profeperez/entidades/clienteservice/Application.java
+/home/shagodiaz/workspace/profe-perez/entidades/cliente-service/src/main/java/cl/profeperez/entidades/clienteservice/config/DataLoader.java

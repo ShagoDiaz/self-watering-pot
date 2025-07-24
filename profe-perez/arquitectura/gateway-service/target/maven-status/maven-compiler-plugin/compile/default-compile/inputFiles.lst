@@ -1,0 +1,4 @@
+/home/shagodiaz/workspace/profe-perez/arquitectura/gateway-service/src/main/java/cl/profeperez/arquitectura/gatewayservice/Application.java
+/home/shagodiaz/workspace/profe-perez/arquitectura/gateway-service/src/main/java/cl/profeperez/arquitectura/gatewayservice/security/JwtAuthenticationToken.java
+/home/shagodiaz/workspace/profe-perez/arquitectura/gateway-service/src/main/java/cl/profeperez/arquitectura/gatewayservice/security/SecurityConfig.java
+/home/shagodiaz/workspace/profe-perez/arquitectura/gateway-service/src/main/java/cl/profeperez/arquitectura/gatewayservice/security/JwtAuthenticationFilter.java
